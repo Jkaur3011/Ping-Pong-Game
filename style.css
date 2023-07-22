@@ -1,0 +1,48 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+#heading {
+    width: 100%;
+    text-align: left;
+}
+
+#heading h3 {
+    display: inline;
+}
+
+#heading button {
+    float: right;
+    border: 1px black inset;
+}
+
+#play {
+    background-color: rgb(249, 36, 172) !important;
+    border-color: rgb(249, 36, 172) !important;
+}
+
+#status {
+    background-color: white !important;
+    border-color: white !important;
+    color: black;
+}
+
+ol {
+    text-align: left;
+}
+
+.modal-dialog {
+    width: 60%;
+}
+
+footer {
+    background-color: white;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    bottom: 0;
+    line-height: 2;
+    margin: 0px;
+    position: sticky;
+}
